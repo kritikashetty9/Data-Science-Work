@@ -1,0 +1,3 @@
+HI,I'm Kritika Shetty
+Welcome to my Github Repository
+This is to check git and github .
