@@ -1,0 +1,6 @@
+id name company salary
+1 Sachin TCS 2300
+2 Rohit Infy 3200
+3 Virat Wip 4500
+4 Shubham TCS 4000
+5 Rinku Wip 2600
